@@ -34,7 +34,16 @@ Read **CONTRIBUTING.md** before opening a pull request.
 
 <p align="center">
 <!-- CONTRIBUTORS-LIST:START -->
-<!-- This section is auto-generated. Do not edit manually. -->
+<table>
+<tr>
+<td align='center' width='120px'>
+<a href='https://github.com/alisolanki'>
+<img src='https://github.com/alisolanki.png' width='80px' style='border-radius:50%'><br>
+<sub><b>alisolanki</b></sub>
+</a>
+</td>
+</tr>
+</table>
 <!-- CONTRIBUTORS-LIST:END -->
 </p>
 
